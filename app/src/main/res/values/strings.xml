@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CryptocurrencyPrices</string>
+    <string name="cryptocurrencySymbol">Symbol:</string>
+    <string name="cryptocurrencyDate">Date:</string>
+    <string name="cryptocurrencyPrice">Price:</string>
+    <string name="btnPrev">PREV</string>
+    <string name="btnNext">NEXT</string>
+    <string name="btnToday">Today</string>
+    <string name="menuClearRecords">Clear all records</string>
+    <string name="menuGetAllRecords">Get all records</string>
+    <string name="menuAddRecord">Add record</string>
+    <string name="defaultVsCurrency">USD</string>
+    <string name="defaultCryptocurrency">bitcoin</string>
+    <string name="defaultDateFormat">dd.MM.yyyy</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="REQUEST_PRICE_DATA_FAILURE">Getting price data error!</string>
+    <string name="REQUEST_CRYPTOCURRENCIES_LIST_FAILURE">Getting cryptocurrencies list error!</string>
+    <string name="REQUEST_PRICE_HISTORY_FOR_DATE_RANGE_FAILURE">Getting price history for date range error!</string>
+    <string name="UNKNOWN_FAILURE">Unknown error!</string>
+    <string name="txtMin">Min: </string>
+    <string name="txtAvg">Avg: </string>
+    <string name="txtMax">Max: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radioButtonOneYear">1 year</string>
+    <string name="radioButtonOneMonth">1 month</string>
+    <string name="radioButtonOneWeek">1 week</string>
+    <string name="radioButtonOneDay">24 hours</string>
+</resources>
